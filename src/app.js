@@ -4,7 +4,7 @@ const express = require("express");
 const bodyParser = require("body-parser");
 const app = express();
 const productsRoutes = require("./products/routes");
-const usersRoutes = require("./users/routes");
+const usersRoutes = require("./domain/users/routes");
 
 const cors = (req, res, next) => {
   res.header("Access-Control-Allow-Origin", "*");

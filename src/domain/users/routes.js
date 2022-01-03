@@ -1,9 +1,9 @@
 const express = require("express");
 const router = express.Router();
-const ProductController = require("./controller");
-const db = require("../db");
+const UserController = require("./controller");
+const db = require("../../db");
 
-router.get("/", ProductController.getUsers);
+router.get("/", UserController.getUsers);
 
 router.post("/", async (request, response) => {
   const newUser = {

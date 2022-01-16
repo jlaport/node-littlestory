@@ -1,6 +1,8 @@
+const db = require("../../db");
 
-function getProducts(req, res) {
-  res.send(products);
+async function getProducts(request, response) {
+  const res = await db.query("SELECT * FROM products");
+  response.send(res.rows);
 }
 
 
@@ -386,5 +388,5 @@ function getProducts(req, res) {
 //   },
 //]
 module.exports = {
-  getProducts
-}
+  getProducts,
+};

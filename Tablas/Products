@@ -1,0 +1,55 @@
+id;name;category;price;image
+1;Juguete de estrellas;juguetes;50;./assets/Juguetes/estrella.jpeg
+2;Juguete de madera;juguetes;50;./assets/Juguetes/madera1.jpeg
+3;Juguete de figuras;juguetes;50;./assets/Juguetes/figura.jpeg
+4;Juguete de piramide;juguetes;50;./assets/Juguetes/piramide.jpeg
+5;Juguete de vasos;juguetes;50;./assets/Juguetes/vasos.jpg
+6;mordillo de aros;mordillos;60;./assets/Mordillos/Aros.jpg
+7;mordillo de aros 2;mordillos;60;./assets/Mordillos/Aros1.jpg
+8;mordillo de aros 3;mordillos;60;./assets/Mordillos/Aros3.jpg
+9;mordillo de aros 4;mordillos;60;./assets/Mordillos/Aros2.jpg
+10;Mordillo gris;mordillos;60;./assets/Mordillos/Gris.jpg
+11;Mordillo marron;mordillos;60;./assets/Mordillos/Marron.jpg
+12;Plato alto blanco;platos;70;./assets/Platos/altoblanco.jpg
+13;Plato alto rosa;platos;70;./assets/Platos/altorosa.jpg
+14;Plato alto azul;platos;70;./assets/Platos/altoazul.jpg
+21;Babero Amarillo;baberos;30;./assets/Baberos/baberoamarillo.jpg
+22;Babero Rosa;baberos;30;./assets/Baberos/baberorosa.jpg
+23;Babero Rojo;baberos;30;./assets/Baberos/baberorojo.jpg
+24;Babero Gris;baberos;30;./assets/Baberos/baberogris.jpg
+25;Babero Azul;baberos;30;./assets/Baberos/baberoazul.jpg
+26;Chupete blanco;chupetes;100;./assets/Chupetes/blanco.png
+27;Chupete celeste;chupetes;100;./assets/Chupetes/celeste.png
+28;Chupete naranja;chupetes;100;./assets/Chupetes/naranja.png
+29;Chupete rojo;chupetes;100;./assets/Chupetes/rojo.png
+30;Muselina blanca;muselinas;150;./assets/Muselinas/blanca.jpg
+31;Muselina gris;muselinas;150;./assets/muselinas/gris.jpg
+32;Muselina naranja;muselinas;150;./assets/muselinas/naranja.jpg
+33;Muselina rosa;muselinas;150;./assets/muselinas/rosa.jpg
+34;Portachupetes rojo;Portachupetes;20;./assets/Portachupetes/rojo.jpg
+35;Portachupetes azul;Portachupetes;20;./assets/Portachupetes/azul.jpg
+15;"Plato cuadrado blanco
+";platos;70;./assets/Platos/altoblanco.jpg
+16;Plato cuadrado azul;platos;70;./assets/Platos/cuadradoazul.jpg
+17;Plato cuadrado rosa;platos;70;./assets/Platos/cuadradorosa.jpg
+18;"Plato redondo claro
+";platos;70;./assets/Platos/redondoclaro.jpg
+19;Plato redondo gris;platos;70;./assets/Platos/redondogris.jpg
+20;Plato redondo rojo;platos;70;./assets/Platos/redondorojo.jpg
+36;Portachupetes blanco;Portachupetes;20;./assets/Portachupetes/blanco.jpg
+37;Portachupetes gris;Portachupetes;20;./assets/Portachupetes/gris.jpg
+38;Portachupetes verde;Portachupetes;20;./assets/Portachupetes/verde.jpg
+39;Portachupetes rosa;Portachupetes;20;./assets/Portachupetes/rosa.jpg
+40;Vaso azul;vasos;35;./assets/Vasos/Azul.jpg
+41;Vaso crema;vasos;35;./assets/Vasos/Crema.jpg
+42;Vaso gris;vasos;35;./assets/Vasos/Gris.jpg
+43;Vaso rojo;vasos;35;./assets/Vasos/Rojo.jpg
+44;Vaso rosa;vasos;35;./assets/Vasos/Rosa.jpg
+45;Vaso verde;vasos;35;./assets/Vasos/Verde.jpg
+46;Rebozo blanco;rebozos;160;./assets/Rebozos/Blanco.jpg
+47;Rebozo Claro con puntos;rebozos;160;./assets/Rebozos/Claropuntos.jpg
+48;Rebozo crema;rebozos;160;./assets/Rebozos/Crema.jpg
+49;Rebozo lila;rebozos;160;./assets/Rebozos/Lila.jpg
+50;Rebozo negro;rebozos;160;./assets/Rebozos/negro.jpg
+51;Rebozo rosa;rebozos;160;./assets/Rebozos/Rosa.jpg
+52;Rebozo verde;rebozos;160;./assets/Rebozos/verde.jpg
